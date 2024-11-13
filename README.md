@@ -1,7 +1,7 @@
 # portfolio
 
 ## これは何？
-next.jsとsolidityでdAppを構築<br>
+next.jsとsolidityでDAppを構築<br>
 ※去年の続き<br>
 
 ## やること
